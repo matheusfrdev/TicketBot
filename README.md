@@ -1,6 +1,6 @@
 
 ### :electric_plug: `1º` **- Inicialização**
-#### Copie e cole no terminal.
+#### Apos ter baixado os arquivos, copie e cole o código abaixo no terminal.
 ````
  npm i discord.js@v13-lts. 
 ````

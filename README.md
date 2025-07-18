@@ -1,3 +1,12 @@
+# 📩 Ticket Bot Open-Source
+
+
+
+<img src="imagem.png" alt="Exemplo imagem">
+
+> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+
+# 🚀 Instalando Ticket Bot
 
 ### :electric_plug: `1º` **- Inicialização**
 #### Apos ter baixado os arquivos, copie e cole o código abaixo no terminal.
@@ -20,3 +29,20 @@
 - `mongoose6.1.4`
 - `fs@0.0.1-security`
 - `nodejs@18.0.1`
+
+## 🤝 Colaboradores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="https://github.com/matheusfrdev">
+        <img src="https://avatars.githubusercontent.com/u/122581322?v=4" width="100px;" alt="Foto Matheus"/><br>
+        <sub>
+          <b>Matheus</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>

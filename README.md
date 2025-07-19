@@ -2,12 +2,6 @@
 
 
 
-<img src="imagem.png" alt="Exemplo imagem">
-
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-
-# 🚀 Instalando Ticket Bot
-
 ### :electric_plug: `1º` **- Inicialização**
 #### Apos ter baixado os arquivos, copie e cole o código abaixo no terminal.
 ````
